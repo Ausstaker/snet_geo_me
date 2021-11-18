@@ -1,7 +1,8 @@
 # Geo-Me Service
 
 # Description
-Self-geolocation sensor fusion based gRPC service compatible with SingularityNET
+Self-geolocation sensor fusion based gRPC service compatible with SingularityNET.
+Beta operating on SingularityNET here: https://beta.singularitynet.io/servicedetails/org/6509581150c8446e8a73b3fa71ebdb69/service/geo-me
 
 # Quick Start
 1. Navigate to project root
