@@ -1,0 +1,10 @@
+target/
+.DS_Store
+.idea/
+.iml
+unused
+snet_scripts
+TIPS.txt
+TODO.txt
+SNIPPETS.txt
+geoOutput.kml
